@@ -1,0 +1,35 @@
+CSS Selectors
+
+
+id = #id_name
+     tagname#id_name
+
+classname = .class_name
+	    tagname.class_name
+	    tagname[attribute=value]
+
+Parent - Child = parent child
+
+
+
+mkdir FolderName
+
+npm -i init
+
+npm install cypress --save-dev
+
+Create 'integration' folder
+
+Create Test file
+
+Define specPattern as "specPattern: 'cypress/integration/*.js'"
+
+
+
+
+
+
+
+
+
+
